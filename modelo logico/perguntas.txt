@@ -1,0 +1,19 @@
+1. Selecionar todos os usuários por ordem dos cadastrados mais antigos
+
+2. Quais são os meios de pagamento disponíveis?
+
+3. Quais meios de pagamentos mais utilizados?
+
+4. Quais clientes estão com contas inativas?
+
+5. Quais filmes de drama estão no catálogo?
+
+6. Quais documentários existem no catálogo? Exibir lista apenas com título, gênero, país, ano e classificação
+
+7. Selecione um cliente cadastrado, onde mostre os seguintes dados: ID_CLIENTE, NOME, EMAIL, CPF, USERNAME, CIDADE e STATUS (conta)
+
+8. Quantos clientes estão ativos?
+
+9. Selecione todas as séries listadas na tabela Vídeo
+
+10. Quais séries foram gravadas entre 2020 e 2022?
